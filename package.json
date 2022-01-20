@@ -1,0 +1,17 @@
+{
+  "name": "test_gif_engine",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.9.0",
+    "gif-encoder-2": "^1.0.5",
+    "promisify": "^0.0.3"
+  }
+}
